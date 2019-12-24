@@ -138,3 +138,23 @@ free-flowing, fee-free trading network. A Bitcoin SWOT analysis is provided outl
 affect how Bitcoin is leading to a change in economic concepts.”
 
 
+
+
+[9]
+[Paper Link: https://bitcoin.org/bitcoin.pdf]
+
+
+Bitcoin: A Peer-to-Peer Electronic Cash System
+
+“A variant of electronic cash that is solely peer-to-peer will allow online transfers being sent directly from one individual without 
+passing through a commercial bank digital signatures doesn’t provide the full solution because it still required a trusted third party 
+to prevent double-spending. In this paper they provide a solution to this problem using a p2p network. The network is safe as long as 
+trustworthy nodes jointly manage more power of the CPU than any community of intruder nodes that cooperates. Nodes function with little 
+synchronization all at once. They need not be marked because communications are not sent to any specific location and need only be 
+distributed on the best possible effort basis. Nodes will leave and join the network at will, recognizing the chain of proof of work as 
+evidence of what happens before they entered. Through refusing to work on them, they vote with their CPU capacity, demonstrating their 
+approval of legitimate blocks through trying to expand them and dismiss invalid blocks. With this compromise process, the required laws 
+and rewards can be applied.”
+
+
+
