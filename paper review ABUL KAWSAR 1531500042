@@ -53,6 +53,17 @@ Bitcoin in Islamic Banking and Finance
     improve returns and increase diversity against attacks, without affecting the volatility of the reserve balance.The authors 
     admit that “digital currency could become a key currency for settling transactions” and that it is useful for central banks to
     evaluate their l impact.This paper is remarkable because it express the emerging throughout the world recognition of bitcoin as 
-    a benefited store of value among central
-    bank authorities
+    a benefited store of value among central bank authorities.
+    
+    
+ paper no 6:
+    	
+Confidential Transactions, Content privacy for Bitcoin transactions:
+
+There is a strong impulse for financial privacy in bitcoin comes as nothing new, provide the community’s historically libertarian
+leanings. Possibly nobody has create more of an impact fostering privacy-enhancing techniques than Gregory Maxwell. Following up on
+his 2013 invention of “coinjoin”, in this report Maxwell presents his newest cutting-edge research. “Confidential Transactions” is a
+technique that permits users to hide the values of their payments from the public, yet — with novel cryptographic methods— present 
+enough information to grant miners to justify that the sum of the coins transacted is preserved. Implementing confidential 
+transactions in bitcoin requires impulse protocol changes; however, experiment is currently being carried out on Blockstream sidechains.
   
