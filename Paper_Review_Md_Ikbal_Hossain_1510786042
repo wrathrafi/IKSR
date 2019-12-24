@@ -51,3 +51,19 @@ sustainability, they considered miner's productivity through sustainable net pos
 of computers that mined bitcoin for the most part, we found a negative net cash flow.”
 
 
+
+[4]
+[Paper link: https://www.sciencedirect.com/science/article/pii/S240595951930164X]
+
+
+Analysis of the main consensus protocols of Blockchain:
+
+“Blockchain is many cryptocurrencies ' core technology. Consensus protocols are a key part of blockchain technology. Currently used 
+consensus protocols in most blockchain systems can be classified into two categories: the probabilistic-finality consensus protocols and 
+the absolute-finality consensus protocols. There are three basic blockchain types: public blockchain, consortium blockchain and private 
+blockchain. That blockchain form has different scenarios for implementation. The adopted consensus protocol must therefore meet the 
+requirements of the specific scenario of implementation. They introduced some common blockchain consensus protocols in this paper and 
+through review and comparison found their strengths, limitations and implementation scenarios.”
+
+
+
