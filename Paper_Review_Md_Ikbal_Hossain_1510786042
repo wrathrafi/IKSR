@@ -158,3 +158,19 @@ and rewards can be applied.”
 
 
 
+[10]
+[paper Link: https://scholar.smu.edu/cgi/viewcontent.cgi?article=1039&context=datasciencereview]
+
+
+Cryptocurrency Price Prediction Using Tweet Volumes and Sentiment Analysis
+
+“This paper provides a framework for forecasting shifts in the price of Bitcoin and Ethereum using data from Twitter and Google Trends. 
+Techniques utilizing tweet sentiment analysis are tested to achieve this. This includes using the Twitter API and a Python module named 
+"Tweepy"2 to collect and store the Bitcoin or Ethereum listed tweets. The tweets were then analysed to establish a day-by-day sentiment 
+score and applied to that day's price changes to assess whether a link could be calculated between Twitter sentiment and price changes 
+in cryptocurrencies. Some scholars, including Choi and Varian and Ettredge et al., find that web-based search data for Ettredge et al. 
+and especially Google Trends data for Choi and Varian could be used to forecast several macroeconomic figures, including car prices and 
+rates of unemployment. This paper shows that the quest volume measure, including tweet volumes, is highly correlated with cryptocurrency 
+values as rates rise and fall. With these inputs, a multiple linear regression model was accurately reflected in future price shifts 
+with the introduction of lagged variables. A person will make properly informed buying and selling choices relevant to Bitcoin and 
+Ethereum by using this model.”
