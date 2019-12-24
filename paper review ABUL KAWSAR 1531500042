@@ -1,4 +1,5 @@
 paper no 1:
+A Relative Study on Bitcoin Mining:
 
 A Relative Study on Bitcoin Mining: This paper is about bitcoin mining process of adding records oftransactions to
 the bitcoin database of earlier transactions or blockchain from Bitcoin. This approach is organized as a faster system
@@ -13,7 +14,9 @@ and claim control over the network.
 
 
 paper no 2:
+
 The Bitcoin Lightning Network: 
+
 Scalable Off-Chain Instant Payments The Lightning Network of  Bitcoin , which is basically  an extension of two-party payment
 method applied in such a way as to give permit instant transactions between any number of clients. Lightning transactions which
 are normal bitcoin transactions, but except for critical cases are not actually posted to the Block chain. Because the bulk of
@@ -21,9 +24,22 @@ the transactional data is keep  privately, lightning transactions are expected t
 bitcoin transactions, thereby enabling affordable micropayments.The vision of Poon and Dryja’s  might be soon be realize,as 
 Blockstream continues to work towards making the Lightning Network a true  reality.
    
-paper no 3: Bitcoin in Islamic Banking and Finance
+paper no 3: 
+
+Bitcoin in Islamic Banking and Finance
 
  Considering that Muslims make up about 25% of the world’s population, and that bitcoin is free of interest, Professor Charles
  Evans argues that the overlap between hard-money advocacy and Shari’a-compliant finance is large enough for these two communities
  to build intellectual bridges.This paperr has put bitcoin on the radar of many people previously far-removed from cryptocurrency,
  resulting in a surprising amount of attention from Muslims worldwide.
+ 
+ paper no 4:
+ 
+ The Bitcoin Backbone Protocol
+ 
+  One of the leading provable security models for a cryptocurrency's consensus algorithm basically the Bitcoin Backbone Protocol 
+  actually provides . Extract and analyze the core of the Bitcoin protoco design byl authors Garay, Kiayias and Leonardos, analysis
+  their framing in terms of two novel properties they give refer to as common prefix and chain quality. The similar prefix property
+  relates to the network’s ability to connect upon a single history, while the quality of chain property describes the degree to 
+  which a malicious entity can update an advantage in excess of its mining power. Their results of their experiment align with those
+  from Eyal and Sirer (selfish mining) and in fact broadly generalize the underlying concepts.
