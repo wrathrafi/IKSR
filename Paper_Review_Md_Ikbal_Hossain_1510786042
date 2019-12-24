@@ -67,3 +67,15 @@ through review and comparison found their strengths, limitations and implementat
 
 
 
+[5]
+[Paper link: https://wws.princeton.edu/system/files/research/documents/Felten_SoK.pdf]
+
+SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies
+
+Bitcoin is the most successful cryptography in the history. In just two year it grew billions of dollars economic value. In this paper 
+provided first systematic Bitcoin analysis and the many associated altcoins or cryptocurrencies. They identified three key components of 
+the architecture of Bitcoin which can be decoupled. They survey confidentiality problems in Bitcoin and provide a forum for assessing a 
+variety of initiatives to improve privacy. Their extensive Bitcoin research, based on both theoretical and online literature, reveals a 
+renaissance of new ideas in creating a realistic cryptocurrency, a long-standing challenge for the security community of computers. 
+Bitcoin is a rare instance that it seems the practice is ahead of the concept. This researchers see this as a huge opportunity for the 
+research community to discuss the several open questions they have set out about Bitcoin.
