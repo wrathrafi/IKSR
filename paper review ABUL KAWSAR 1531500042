@@ -1,5 +1,6 @@
 paper no 1:
-A Relative Study on Bitcoin Mining [1]: This paper is about bitcoin mining process of adding records oftransactions to
+
+A Relative Study on Bitcoin Mining: This paper is about bitcoin mining process of adding records oftransactions to
 the bitcoin database of earlier transactions or blockchain from Bitcoin. This approach is organized as a faster system
 between individuals or firms where the miners with different computational capabilities to solve a mathematical problem,
 carry proof of work, enlarge their solution, and reach consent with it among the bitcoin network junctions. It says Bitcoin
@@ -13,13 +14,12 @@ and claim control over the network.
 
 paper no 2:
 The Bitcoin Lightning Network: 
-Scalable Off-Chain Instant Payments The Bitcoin Lightning Network, which is an extension of two-party payment channels applied
-in such a way as to permit instant transactions between any number of participants.Lightning transactions are normal bitcoin 
-transactions, but except for rare cases are not actually posted to the Block chain. Because the bulk of the transactional data
-is stored privately, lightning transactions are expected to be significantly less expensive than on-chain bitcoin transactions,
-thereby enabling affordable micropayments. Poon and Dryja’s vision may soon be realized, as Blockstream continues to work towards 
-making the Lightning Network a reality.
-   
+Scalable Off-Chain Instant Payments The Lightning Network of  Bitcoin , which is basically  an extension of two-party payment
+method applied in such a way as to give permit instant transactions between any number of clients. Lightning transactions which
+are normal bitcoin transactions, but except for critical cases are not actually posted to the Block chain. Because the bulk of
+the transactional data is keep  privately, lightning transactions are expected to be significantly low expensive than on-chain 
+bitcoin transactions, thereby enabling affordable micropayments.The vision of Poon and Dryja’s  might be soon be realize,as 
+Blockstream continues to work towards making the Lightning Network a true  reality.
    
 paper no 3: Bitcoin in Islamic Banking and Finance
 
