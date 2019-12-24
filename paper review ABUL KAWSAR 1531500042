@@ -12,9 +12,18 @@ and claim control over the network.
 
 
 paper no 2:
-The Bitcoin Lightning Network: Scalable Off-Chain Instant PaymentsThe Bitcoin Lightning Network, which is an extension of 
-two-party payment channels applied in such a way as to permit instant transactions between any number of participants.
-Lightning transactions are normal bitcoin transactions, but except for rare cases are not actually posted to the Block chain.
-Because the bulk of the transactional data is stored privately, lightning transactions are expected to be significantly less 
-expensive than on-chain bitcoin transactions, thereby enabling affordable micropayments. Poon and Dryja’s vision may soon be 
-realized, as Blockstream continues to work towards making the Lightning Network a reality.
+The Bitcoin Lightning Network: 
+Scalable Off-Chain Instant Payments The Bitcoin Lightning Network, which is an extension of two-party payment channels applied
+in such a way as to permit instant transactions between any number of participants.Lightning transactions are normal bitcoin 
+transactions, but except for rare cases are not actually posted to the Block chain. Because the bulk of the transactional data
+is stored privately, lightning transactions are expected to be significantly less expensive than on-chain bitcoin transactions,
+thereby enabling affordable micropayments. Poon and Dryja’s vision may soon be realized, as Blockstream continues to work towards 
+making the Lightning Network a reality.
+   
+   
+paper no 3: Bitcoin in Islamic Banking and Finance
+
+ Considering that Muslims make up about 25% of the world’s population, and that bitcoin is free of interest, Professor Charles
+ Evans argues that the overlap between hard-money advocacy and Shari’a-compliant finance is large enough for these two communities
+ to build intellectual bridges.This paperr has put bitcoin on the radar of many people previously far-removed from cryptocurrency,
+ resulting in a surprising amount of attention from Muslims worldwide.
