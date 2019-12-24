@@ -70,33 +70,53 @@ through review and comparison found their strengths, limitations and implementat
 [5]
 [Paper link: https://wws.princeton.edu/system/files/research/documents/Felten_SoK.pdf]
 
+
 SoK: Research Perspectives and Challenges for Bitcoin and Cryptocurrencies
 
-Bitcoin is the most successful cryptography in the history. In just two year it grew billions of dollars economic value. In this paper 
+"Bitcoin is the most successful cryptography in the history. In just two year it grew billions of dollars economic value. In this paper 
 provided first systematic Bitcoin analysis and the many associated altcoins or cryptocurrencies. They identified three key components of 
 the architecture of Bitcoin which can be decoupled. They survey confidentiality problems in Bitcoin and provide a forum for assessing a 
 variety of initiatives to improve privacy. Their extensive Bitcoin research, based on both theoretical and online literature, reveals a 
 renaissance of new ideas in creating a realistic cryptocurrency, a long-standing challenge for the security community of computers. 
 Bitcoin is a rare instance that it seems the practice is ahead of the concept. This researchers see this as a huge opportunity for the 
-research community to discuss the several open questions they have set out about Bitcoin.
+research community to discuss the several open questions they have set out about Bitcoin."
 
 
 
 [6]
 [Paper Link: https://journals.sagepub.com/doi/full/10.1177/2158244019865813]
 
+
 Acceptance and Penetration of Bitcoin:
 The Role of Psychological Distance and
 National Culture
 
-Virtual currency (Bitcoin) does not suit fiat/"real "money, but can progressively be used to purchase real or virtual goods or services. 
+"Virtual currency (Bitcoin) does not suit fiat/"real "money, but can progressively be used to purchase real or virtual goods or services. 
 Experts have conducted a variety of socio-psychological studies on the worldwide Bitcoin phenomenon. The cultural aspect was less 
 researched according to technical and socioeconomic variables in the midst of various narratives and empirical studies on Bitcoin 
 penetration and intention to use it. Cultural explanation is necessary because there are differences in reaction to technological 
 innovations between cultures. Bitcoin is seen as an item or commodity that needs to be socialized or advertised, so success depends on a 
 business model that takes cultural differences into consideration (Wahl, 2016). This study's contribution is to find social and 
 psychological factors that can influence economic behavior, namely the penetration and acceptance of Bitcoin at the national and 
-individual level. The results of this study can be used by governments to conduct social campaigns in line with their monetary policy.
+individual level. The results of this study can be used by governments to conduct social campaigns in line with their monetary policy."
+
+
+
+[7]
+[Paper Link: https://www.mdpi.com/2410-387X/1/2/15/htm ]
+
+
+Beyond Bitcoin: A Critical Look at
+Blockchain-Based Systems
+
+“The presence of digital currencies is directly related to the broad distribution of Web and electronic markets. The concept of using a 
+digital currency became feasible when some significant cryptographic advances resolved several fundamental security challenges in money 
+transfers, e.g., the transaction's required trust. After more than eight years since the launch of Bitcoin, the decentralized 
+transaction ledger feature introduced by the blockchain technology is not only used for cryptocurrencies, but also to record, validate 
+and move any type of contract and property. When Bitcoin v0.1 published and revealed on a mailing list for cryptography, there has been 
+growing interest in its features in various communities related to information technology in some way. They considered the opportunities 
+offered by the blockchain in this paper, vy reviewing its most important functionalities and known problems. They tested Bitcoin-
+specific computing features in order to demonstrate the unreadability of Bitcoin-derived structures on a global scale.”
 
 
 
